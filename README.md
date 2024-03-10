@@ -1,4 +1,4 @@
-<p align="left">Karthikeyan</p>
+<h3>Karthikeyan - Progammer | Designer </h3>
 
 ###
 
